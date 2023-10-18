@@ -2,3 +2,4 @@ This is a text file's contents
 
 this line is a new addition
 this line is a new addition
+this line is a new addition
